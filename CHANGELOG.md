@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Add support for python 3.9.0rc1
 
 ## v177 (2020-08-18)
 
